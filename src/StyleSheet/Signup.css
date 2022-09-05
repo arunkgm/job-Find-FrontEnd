@@ -1,0 +1,51 @@
+.body-signin{
+  background-color: indigo;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 800px;
+}
+.h2-signin{
+  text-align: center;
+}
+.signupform-signin{
+   
+  max-width: 450px;
+  border-radius: 20px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 8) ;
+  box-sizing: border-box;
+  padding: 40px;
+  color: brown;
+  margin-top: 49px;
+}
+.formcontrol-signin{
+  width: 350px;
+  box-sizing: border-box;
+  padding: 15px 10px ;
+  background-color: rgba(0, 0, 0, 10);
+  outline: none;
+  border: none;
+  border-bottom: 4px solid gray;
+  color: rgb(248,243,243);
+  border-radius: 5px;
+  margin: 5px;
+  font-weight: bold;
+}
+.subtmit-signin{
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 0;
+  margin-top: 30px;
+  outline: none;
+  border: none;
+  background-color: blueviolet;
+  opacity: 0.3;
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+  transition: 1s;
+
+}
+.subtmit-signin:hover{
+  opacity: 1;
+}
